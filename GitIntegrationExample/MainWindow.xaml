@@ -9,5 +9,6 @@
     <StackPanel>
         <Label HorizontalAlignment="Center">Header 1</Label>
         <Button>Test</Button>
+        <Button>second button</Button>
     </StackPanel>
 </Window>
